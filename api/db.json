@@ -1,0 +1,37 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a great stream.",
+      "id": 1
+    },
+    {
+      "title": "Stream #2",
+      "description": "Here is a second Stream",
+      "id": 2
+    },
+    {
+      "title": "Stream + ID ;):0",
+      "description": "Added an id property to this stream",
+      "userId": "109475485380731334208",
+      "id": 3
+    },
+    {
+      "title": "I didn't mean to do this",
+      "description": "Lets create a broken streamiuyjdec",
+      "id": 5
+    },
+    {
+      "title": "Now I'm a real boy",
+      "description": "Shut up Pinocchio",
+      "userId": "109475485380731334208",
+      "id": 6
+    },
+    {
+      "title": "dasfd",
+      "description": "sdaf",
+      "userId": "109475485380731334208",
+      "id": 7
+    }
+  ]
+}
